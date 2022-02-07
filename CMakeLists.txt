@@ -3,4 +3,4 @@ project(CBDCPaymentProcessor)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(CBDCPaymentProcessor main.cpp)
+add_executable(CBDCPaymentProcessor main.cpp src/FirstFile.cpp src/FirstFile.h)
